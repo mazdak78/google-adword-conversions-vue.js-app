@@ -1,5 +1,4 @@
-# google-adword-conversions-vue.js-app
-How to add multiple Google AdWord Conversions into Vue.js App
+# How to add multiple Google AdWord Conversions into Vue.js App
 
 When there are multiple conversions happen in a SPA Vue.js app, we should fire them manually on each button event.
 
